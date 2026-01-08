@@ -1,4 +1,4 @@
-# 🧩 Design Patterns in Python (GoF)
+# 🧩 Design Patterns in Python
 
 This repository is a **comprehensive, hands-on implementation of all 23 Gang of Four (GoF) design patterns in Python**.  
 It is intended to serve as a **learning reference, interview-prep guide, and practical codebase** for understanding how classic object-oriented design patterns translate into Pythonic implementations.
